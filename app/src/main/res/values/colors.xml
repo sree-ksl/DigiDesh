@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="list_divider">#292929</color>
+    <color name="list_background">#303030</color>
+    <color name="list_item_title">#FDFDFD</color>
+    <color name="counter_text_color">#757575</color>
+    <color name="list_background_pressed">#992517</color>
+    <color name="counter_text_bg">#FDFDFD</color>
+    <color name="background_poly">#00BCD4</color>
+    <color name="PrimaryColor">#2196F3</color>
+    <color name="PrimaryDarkColor">#1976D2</color>
+    <color name="bgColor">#0097A7</color>
+
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorAccent">#FF5252</color>
+    <color name="lightPrimaryColor">#BBDEFB</color>
+    <color name="primaryText">#212121</color>
+    <color name="secondaryText">#727272</color>
+    <color name="dividerColor">#B6B6B6</color>
+</resources>

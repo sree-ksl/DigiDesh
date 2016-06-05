@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/hello/Projects/MercuryThea/app/build/intermediates/exploded-aar/com.nhaarman.listviewanimations/lib-core-slh/3.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="49223278ec2ede1d05d00868c5ce3e077b4016f8">
+        <dex dex="/Users/hello/Projects/MercuryThea/app/build/intermediates/pre-dexed/release/com.nhaarman.listviewanimations-lib-core-slh-3.1.0_7bb3ff5ea27dafa3f63bcc9a4bfc7a96f2524211.jar" />
+    </item>
+    <item
+        jar="/Users/hello/Development/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/hello/Projects/MercuryThea/app/build/intermediates/pre-dexed/release/support-annotations-22.2.0_150b7786b55bc47cac7109cad5b3c14a1956b58b.jar" />
+    </item>
+    <item
+        jar="/Users/hello/Projects/MercuryThea/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/hello/Projects/MercuryThea/app/build/intermediates/pre-dexed/release/internal_impl-22.2.0_c056c1f250acbd43f990c6e6294a5c403faddab7.jar" />
+    </item>
+    <item
+        jar="/Users/hello/Projects/MercuryThea/app/build/intermediates/exploded-aar/com.nhaarman.listviewanimations/lib-core/3.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="acf66033b1418ccf9e15c8e77750981e4809c4ea">
+        <dex dex="/Users/hello/Projects/MercuryThea/app/build/intermediates/pre-dexed/release/com.nhaarman.listviewanimations-lib-core-3.1.0_bc6b78c69aa349fbd407e549521fc0f9d7217529.jar" />
+    </item>
+    <item
+        jar="/Users/hello/Projects/MercuryThea/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/Users/hello/Projects/MercuryThea/app/build/intermediates/pre-dexed/release/com.android.support-design-22.2.0_502453c432ff1a47dd5465139b9071dc71396c11.jar" />
+    </item>
+    <item
+        jar="/Users/hello/Projects/MercuryThea/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/hello/Projects/MercuryThea/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-22.0.0_b93bb99609e2f8a2faecfac40f0c106016da696a.jar" />
+    </item>
+    <item
+        jar="/Users/hello/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/Users/hello/Projects/MercuryThea/app/build/intermediates/pre-dexed/release/httpclient-4.3.6_808fe415227bad6900ce0abde3b94498e4e706ef.jar" />
+    </item>
+    <item
+        jar="/Users/hello/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Users/hello/Projects/MercuryThea/app/build/intermediates/pre-dexed/release/android-async-http-1.4.9_2f1cbaf3bd2231fd50796dcf7d85c09df9f4da3e.jar" />
+    </item>
+    <item
+        jar="/Users/hello/Projects/MercuryThea/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/hello/Projects/MercuryThea/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-22.2.0_4f3449d92d3101253b1f745e14b0906e85fab8da.jar" />
+    </item>
+    <item
+        jar="/Users/hello/Projects/MercuryThea/app/build/intermediates/exploded-aar/com.nhaarman.listviewanimations/lib-manipulation/3.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5660e4bf78904137e90e62a5d4cc2e987258f02c">
+        <dex dex="/Users/hello/Projects/MercuryThea/app/build/intermediates/pre-dexed/release/com.nhaarman.listviewanimations-lib-manipulation-3.1.0_3619763309bacc8c4f414356d7791cba3c15c12e.jar" />
+    </item>
+    <item
+        jar="/Users/hello/Projects/MercuryThea/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/hello/Projects/MercuryThea/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-22.2.0_65d564993fcffb94d8c3d68d61ac38f486816ffb.jar" />
+    </item>
+    <item
+        jar="/Users/hello/Projects/MercuryThea/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="/Users/hello/Projects/MercuryThea/app/build/intermediates/pre-dexed/release/de.hdodenhof-circleimageview-2.0.0_abad79a8d324203c714296f23a449f86576cbcc4.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,55 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                tools:context=".MainActivity"
+                android:background="#B2EBF2">
+    <LinearLayout
+            android:id="@+id/helpLay"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            android:background="#B2EBF2">
+
+            <ImageView
+                    android:id="@+id/sosBtn1"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:src="@drawable/help"
+                    android:layout_marginTop="100dp"
+                    android:layout_gravity="center"
+                    android:gravity="center"/>
+
+        <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:textSize="40sp"
+                android:gravity="center"
+                android:layout_marginTop="16dp"
+                android:layout_below="@+id/sosBtn1"
+                android:layout_gravity="center"
+                android:text="THEA"
+                android:textStyle="bold"
+                android:textColor="#607D8B"/>
+
+        <Button
+                android:id="@+id/olaCab"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:text="ASSIST"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:background="@color/bgColor"
+                android:textColor="#FFFFFF"/>
+
+        </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="#FFFFFF"
+              android:id="@+id/linearLayout1">
+
+    <TextView
+            android:id="@+id/contactInfo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_margin="10dp"
+            android:textSize="30dp"
+            android:gravity="center"
+            android:text="Set Contacts"
+            android:layout_gravity="center"/>
+
+    <LinearLayout
+            android:id="@+id/contactsList"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_below="@+id/contactInfo">
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Enter Emergency contacts"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:layout_marginTop="15dp"
+                android:layout_marginLeft="10dp"/>
+
+        <EditText
+                android:id="@+id/firstContact"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:textSize="16sp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:inputType="phone">
+                <requestFocus/>
+        </EditText>
+        <EditText
+                android:id="@+id/secondContact"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:textSize="16sp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:inputType="phone"/>
+
+        <EditText
+                android:id="@+id/thirdContact"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:textSize="16sp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:inputType="phone"/>
+            <TextView
+                    android:id="@+id/setCode"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Set 4 digit security code"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:layout_marginTop="25dp"
+                    android:layout_marginLeft="10dp"/>
+            <EditText
+                    android:id="@+id/secureCode"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:textSize="16sp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:inputType="phone"/>
+
+            <TextView
+                    android:id="@+id/setTime"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Set time interval for call"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:layout_marginTop="15dp"
+                    android:layout_marginLeft="10dp"/>
+            <Spinner
+                    android:id="@+id/timeSpin"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:textSize="16sp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:inputType="phone"/>
+
+        <Button
+                android:id="@+id/setContacts"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="5dp"
+                android:text="SET"
+                android:textSize="20sp"
+                android:textColor="#ffffff"
+                android:background="@color/background_poly"
+                android:textStyle="bold"/>
+
+    </LinearLayout>
+
+    <ProgressBar
+            android:id="@+id/progressBar1"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/contactsList"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true" />
+
+</RelativeLayout>
